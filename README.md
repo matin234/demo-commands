@@ -1,2 +1,2 @@
 # demo-commands
-demo repo for practicing commands
+this is a demo repo for practicing commands
